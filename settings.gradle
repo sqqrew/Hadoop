@@ -1,0 +1,4 @@
+rootProject.name = 'Hadoop'
+
+include 'WordCount'
+
