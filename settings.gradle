@@ -2,3 +2,15 @@ rootProject.name = 'Hadoop'
 
 include 'WordCount'
 
+include 'PutWithMerge'
+
+include 'putwithmerge'
+
+include 'putwithmerge'
+
+include 'wordcount'
+
+include 'putmerge'
+
+include 'putwithmerge'
+
