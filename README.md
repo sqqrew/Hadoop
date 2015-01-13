@@ -1,4 +1,4 @@
 Hadoop
 ======
 
-MR samples
+MR example
